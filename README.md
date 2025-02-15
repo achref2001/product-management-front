@@ -57,10 +57,16 @@ This project is a modern e-commerce web application built using React and Vite. 
 - Use the contact form to send messages.
 - Explore the flash sales and new arrivals sections.
 
+## Pages and Routes
+- [Home](http://localhost:3000/home): The main landing page of the application.
+- [About](http://localhost:3000/about): Information about the application and its creators.
+- [Contact](http://localhost:3000/contact): A form to send messages to the team.
+- [Dashboard](http://localhost:3000/dashboard): User-specific dashboard with personalized information.
+- [login & signup](http://localhost:3000/login): login & signup page.
+
+
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
-
-
 
 ## Contact
 For any inquiries, please contact [achrefbechane55@gmail.com].
